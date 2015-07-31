@@ -1,0 +1,5 @@
+Bon on fait un petit fichier avec des remarques pour Linux:
+- Rem1: Blabla
+- Rem2: Cococo
+
+##############
