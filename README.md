@@ -7,4 +7,4 @@ DONE
 Modif sur Master branch.
 @+
 
-PS: Voici un petit update local
+PS: Voici une mise à jour local
