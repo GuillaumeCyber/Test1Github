@@ -4,7 +4,7 @@ Premier test sur Github
 Voila je marque ma 1ere ligne!
 DONE
 
-Modif sur Master branch.
+La on bascule sur une branche pour faire des experiences.
 @+
 
 PS: Voici une mise à jour local
