@@ -11,3 +11,5 @@ encore...
 -> Une petite modif sur master
 
 PS: Voici une mise à jour local
+PS2: Voici une mise à jour via portail web
+
