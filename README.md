@@ -12,5 +12,7 @@ encore...
 
 PS: Voici une mise à jour local
 
-PS2: Voici une mise à jour via portail web
+PS2: Voici une mise à jour via l'ordi en local
+
+-- La Funky Team --
 
