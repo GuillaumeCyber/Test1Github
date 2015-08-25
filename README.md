@@ -14,5 +14,6 @@ PS: Voici une mise à jour local
 
 PS2: Voici une mise à jour via portail web et maintenant sous terminal X
 
--- Zoro **
+-- Zoro --
+-- La Funky Team --
 
